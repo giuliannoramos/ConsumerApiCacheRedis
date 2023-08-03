@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MassTransitConsumer.ConsoleApp
-build_property.ProjectDir = c:\Users\giule\Repos\MassTransitAllog-master (1)\MassTransitAllog-master\MassTransitConsumer.ConsoleApp\
+build_property.ProjectDir = c:\Users\giule\Repos\MassTransitAllog\MassTransitAllog\MassTransitConsumer.ConsoleApp\

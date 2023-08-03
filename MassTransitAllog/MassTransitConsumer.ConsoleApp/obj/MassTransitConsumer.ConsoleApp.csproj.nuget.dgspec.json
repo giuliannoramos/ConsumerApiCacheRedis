@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\giule\\Repos\\MassTransitAllog-master (1)\\MassTransitAllog-master\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj": {}
+    "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\giule\\Repos\\MassTransitAllog-master (1)\\MassTransitAllog-master\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj": {
+    "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\giule\\Repos\\MassTransitAllog-master (1)\\MassTransitAllog-master\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
+        "projectUniqueName": "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
         "projectName": "MassTransitConsumer.ConsoleApp",
-        "projectPath": "c:\\Users\\giule\\Repos\\MassTransitAllog-master (1)\\MassTransitAllog-master\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
+        "projectPath": "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\giule\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\giule\\Repos\\MassTransitAllog-master (1)\\MassTransitAllog-master\\MassTransitConsumer.ConsoleApp\\obj\\",
+        "outputPath": "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
