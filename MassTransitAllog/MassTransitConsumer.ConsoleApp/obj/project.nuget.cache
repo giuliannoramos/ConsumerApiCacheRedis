@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c+RV4VEBGaBANMbKaMfThlZzh06Jc2UcenO7Opb4n4uhxkm3jn0X7O40NbeaSEtFn/kvVvbc70M/Ame/4gIlqA==",
+  "dgSpecHash": "hxcyjDqMieG4ZMS5AZpWR+Saeh+PrxBNZsONMy++AsV2ZD6i97ksbHV1CBLKPinzbO9sHNytev8KkCz1dS5YnQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\giule\\Repos\\ConsumerApiCacheRedis\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\giule\\.nuget\\packages\\masstransit\\8.0.16\\masstransit.8.0.16.nupkg.sha512",
     "C:\\Users\\giule\\.nuget\\packages\\masstransit.abstractions\\8.0.16\\masstransit.abstractions.8.0.16.nupkg.sha512",

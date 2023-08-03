@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj": {}
+    "C:\\Users\\giule\\Repos\\ConsumerApiCacheRedis\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj": {}
   },
   "projects": {
-    "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj": {
+    "C:\\Users\\giule\\Repos\\ConsumerApiCacheRedis\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\giule\\Repos\\ConsumerApiCacheRedis\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
         "projectName": "MassTransitConsumer.ConsoleApp",
-        "projectPath": "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
+        "projectPath": "C:\\Users\\giule\\Repos\\ConsumerApiCacheRedis\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\MassTransitConsumer.ConsoleApp.csproj",
         "packagesPath": "C:\\Users\\giule\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\giule\\Repos\\MassTransitAllog\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\giule\\Repos\\ConsumerApiCacheRedis\\MassTransitAllog\\MassTransitConsumer.ConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

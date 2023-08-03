@@ -13,16 +13,16 @@ builder.ConfigureServices((hostContext, services) =>
         busConfigurator.AddConsumers(entryAssembly);
         busConfigurator.UsingRabbitMq((context, busFactoryConfigurator) =>
         {
-            busFactoryConfigurator.Host("jackal-01.rmq.cloudamqp.com", 5671, "ltrbezpq", h =>
-            {
-                h.Username("ltrbezpq");
-                h.Password("7b8V50Ao6YeIZVTmD0Y-bLBoP1BBVbPT");
+            busFactoryConfigurator.Host("jackal-01.rmq.cloudamqp.com", 5671, "smxidzbm", h =>
+        {
+            h.Username("smxidzbm");
+            h.Password("r0NqiOSMhkhEriskosEUM6wHIE9SmIdE");
 
-                h.UseSsl(s =>
-                {
-                    s.Protocol = SslProtocols.Tls12;
-                });
+            h.UseSsl(s =>
+            {
+                s.Protocol = SslProtocols.Tls12;
             });
+        });
             busFactoryConfigurator.ConfigureEndpoints(context);
         });
     });
